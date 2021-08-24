@@ -213,4 +213,4 @@ class StoryBot(discord.Client):
 
 
 bot = StoryBot()
-bot.run("NzQ1Mzg3NTE3NTg2NDQwMjEy.XzxCOA.UPfkxF4VJDZvL93FeXONM2XpK3Y")
+bot.run("")
